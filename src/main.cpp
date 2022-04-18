@@ -53,7 +53,7 @@ void loop() {
   const char text[] = "Hello World"; // tao mang chua chuoi ki tu
   radio.write(&text, sizeof(text)); //Gui du lieu co trong mang text
   // &: tra lai dia chi cua mot bien
-  // sizeof(): tra ve so byte bo nho cua mot bien(tra ve tong so byte bo nho cua mot mang)
+  // sizeof(): tra ve so byte bo nho cua mot bien (tra ve tong so byte bo nho cua mot mang)
   Serial.println("Da gui!"); 
   delay(1000);
 }
