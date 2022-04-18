@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Test_RF24L01",
+			"path": "..\\Test_RF24L01"
+		}
+	],
+	"settings": {}
+}
